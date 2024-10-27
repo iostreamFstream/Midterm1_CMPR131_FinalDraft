@@ -1,0 +1,84 @@
+	Descriptive statistics summarize certain aspects of a sample data set using numeric calculations.
+
+	Data set contains 35 data point(s): 1, 1, 2, 4, 5, 6, 7, 9, 12, 16, 18, 19, 23, 34, 38, 42, 45, 46, 48, 65, 65, 65, 72, 76, 80, 83, 83, 88, 90, 92, 95, 98, 98, 98, 100
+
+
+		Minimum = 1
+
+		Maximum = 100
+
+		Range = 99
+
+		Size = 35
+
+		Sum = 1724
+
+		Mean = 49.2571
+
+		Median = 46
+
+		Mode = 65
+
+		Standard Deviation = 35.8406
+
+		Variance = 1284.55
+
+		Mid Range = 50.5
+
+		Quartiles = 12, 46, 83
+
+		Interquartile Range = 71
+
+		OUTLIERS:[ 1, 1, 2, 4, 5, 6, 7, 9, 12, 16, 18, 19, 23, 34, 38, 42, 45, 46, 48, 65, 65, 65, 72, 76, 80, 83, 83, 88, 90, 92, 95, 98, 98, 98, 100,]
+
+		Sum of Squares = 43674.7
+
+		Mean Absolute Deviation = 31.9935
+
+		Root Mean Square = 60.6145
+
+		Std Error of Mean = 6.05817
+
+		Skewness = 0.0166114
+
+		Kurtosis = 1.68891
+
+		Kurtosis Excess = -1.59518
+
+
+		Coefficient of Variation = 0.727623
+
+		Relative Standard Deviation = 72.7623%
+
+		Frequency Table: 
+		VALUE: 		FREQUENCY:		FREQUENCY %:
+		============================================================
+		1 			 2 			5.714286%
+		2 			 1 			2.857143%
+		4 			 1 			2.857143%
+		5 			 1 			2.857143%
+		6 			 1 			2.857143%
+		7 			 1 			2.857143%
+		9 			 1 			2.857143%
+		12 			 1 			2.857143%
+		16 			 1 			2.857143%
+		18 			 1 			2.857143%
+		19 			 1 			2.857143%
+		23 			 1 			2.857143%
+		34 			 1 			2.857143%
+		38 			 1 			2.857143%
+		42 			 1 			2.857143%
+		45 			 1 			2.857143%
+		46 			 1 			2.857143%
+		48 			 1 			2.857143%
+		65 			 3 			8.571429%
+		72 			 1 			2.857143%
+		76 			 1 			2.857143%
+		80 			 1 			2.857143%
+		83 			 2 			5.714286%
+		88 			 1 			2.857143%
+		90 			 1 			2.857143%
+		92 			 1 			2.857143%
+		95 			 1 			2.857143%
+		98 			 3 			8.571429%
+		100 			 1 			2.857143%

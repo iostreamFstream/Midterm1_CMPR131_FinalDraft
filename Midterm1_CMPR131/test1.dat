@@ -1,0 +1,59 @@
+	Descriptive statistics summarize certain aspects of a sample data set using numeric calculations.
+
+	Data set contains 5 data point(s): 4, 5, 7, 7, 8
+
+
+		Minimum = 4
+
+		Maximum = 8
+
+		Range = 4
+
+		Size = 5
+
+		Sum = 31
+
+		Mean = 6.2
+
+		Median = 7
+
+		Mode = 7
+
+		Standard Deviation = 1.64317
+
+		Variance = 2.7
+
+		Mid Range = 6
+
+		Quartiles = 4.5, 7, 7.5
+
+		Interquartile Range = 3
+
+		OUTLIERS:[ 4, 5, 7, 7, 8,]
+
+		Sum of Squares = 10.8
+
+		Mean Absolute Deviation = 1.36
+
+		Root Mean Square = 6.37181
+
+		Std Error of Mean = 0.734847
+
+		Skewness = -0.518421
+
+		Kurtosis = 6.31276
+
+		Kurtosis Excess = -1.68724
+
+
+		Coefficient of Variation = 0.265027
+
+		Relative Standard Deviation = 26.5027%
+
+		Frequency Table: 
+		VALUE: 		FREQUENCY:		FREQUENCY %:
+		============================================================
+		4 			 1 			20.000000%
+		5 			 1 			20.000000%
+		7 			 2 			40.000000%
+		8 			 1 			20.000000%
